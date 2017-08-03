@@ -1,1 +1,1 @@
-hey boi, me lernin npm
+# Just a repository for me to study NPM in.
